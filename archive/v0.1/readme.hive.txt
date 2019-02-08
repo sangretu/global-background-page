@@ -1,0 +1,3 @@
+[20180831]
+
+This was initially stuck in a folder entitled "2012 version with different features", which IIRC referred to the fact that the structure of the package changed at some point and I had to rework a bunch of stuff to make it functional with Chrome again. Primary reason for keeping this around (aside from posterity) was, I think, the ability to go back and refactor the features into the newer version at some point. Not sure if that ever happened or not.
